@@ -21,3 +21,4 @@ The bot generates `MAP_<image>.png` and sends it back.
 ---
 
 Based on: [https://github.com/metch1/Bs_Map](https://github.com/metch1/Bs_Map) ty❤️
+JOIN MY DISCORD https://discord.gg/98uhcpKBmh 🐒
